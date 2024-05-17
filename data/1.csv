@@ -1,0 +1,7 @@
+#{0} sold {2} items in the month of {1}
+person,month,quantity
+alex,january,5
+dan,march,6
+dan,april,7
+robert,april,9
+rebecca,april,10
